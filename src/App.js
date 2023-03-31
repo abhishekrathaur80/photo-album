@@ -12,7 +12,7 @@ import {
   Toolbar,
   Container,
 } from "@mui/material";
-import Stack from "@mui/material/Stack";
+
 import CameraIcon from "@mui/icons-material/PhotoCamera";
 import useStyle from "./style";
 const cards = [1, 2, 3, 4, 5, 6, 7, 8, 9];
